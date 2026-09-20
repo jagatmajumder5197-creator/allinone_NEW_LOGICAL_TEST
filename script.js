@@ -21,7 +21,7 @@ const subjects = [
 ];
 
 const CLASS_ORDER = [
-  'NUR_A', 'NUR_B', 'LKG_A', 'LKG_B', 'UKG_A', 'UKG_B',
+  'NUR (A)', 'NUR_B', 'LKG_A', 'LKG_B', 'UKG_A', 'UKG_B',
   'I (A)', 'I (B)', 'II (Two)', 'III (Three)', 'IV (Four)',
   'V (Five)', 'VI (Six)', 'VII (Seven)', 'VIII (Eight)',
   'IX (Nine)', 'X (Ten)'
@@ -116,7 +116,7 @@ document.getElementById('classSelect').addEventListener('change', function () {
   const cls = this.value;
 
   const signatureMap = {
-    "NUR_A": "nura.png", "NUR_B": "nurb.png",
+    "NUR (A)": "nura.png", "NUR_B": "nurb.png",
     "LKG_A": "lkga.png", "LKG_B": "lkgb.png",
     "UKG_A": "ukga.png", "UKG_B": "ukgb.png",
     "I (A)": "ia.png", "I (B)": "ib.png",
