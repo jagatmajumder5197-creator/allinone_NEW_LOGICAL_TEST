@@ -1,5 +1,6 @@
 const WEB_APP_URL =
-  'https://script.google.com/macros/s/AKfycbyOnxQqelRC93Xmx61AHsmX3XsB6u3qKK_LtY0miKigHQGwH2fz75Ho1hxy8YoYYsYWQQ/exec';
+
+'https://script.google.com/macros/s/AKfycbwCMrfjGLtueeGMIXO0lcmtw808poNAnlhWuxObHG-__cE-ZFR3VKgCCVCePuKp5Obi/exec';
 
 let allStudents = [];
 
